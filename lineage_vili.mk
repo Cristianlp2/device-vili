@@ -15,7 +15,7 @@ $(call inherit-product, device/xiaomi/vili/device.mk)
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
 # Matrixx
-MATRIXX_BUILD_TYPE := Unofficial
+MATRIXX_BUILD_TYPE := official
 MATRIXX_MAINTAINER := Cr1st1anlp
 MATRIXX_BATTERY := 5000mAh
 MATRIXX_DISPLAY := 2400x1080
